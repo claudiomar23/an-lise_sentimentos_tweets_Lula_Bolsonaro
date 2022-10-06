@@ -13,10 +13,10 @@ library(rtweet)
 #Login no Twitter
 
 
-api_key             = "qVDLsNcJx5ROXkuSXup1rHwNs"
-api_secret          = "RZhz5Z2aLJxM3CNQ8KDu4DmyjyF2afDmVpDMq4IYe6GmnnDfHx"
-access_token        = "1111096902706216967-EDzLAPEx1W0C4x5SCfwdmgTy8oz3t5"
-access_token_secret = "80GU14yzm8IEFpOwX3Zvwqw6xcd9iLlKCSQ2Q5GjUjtX9"
+api_key             = "XXXXX"
+api_secret          = "XXXXXX"
+access_token        = "XXXXXXX"
+access_token_secret = "XXXXXXX"
 
 setup_twitter_oauth(api_key, api_secret, access_token, access_token_secret);
 
